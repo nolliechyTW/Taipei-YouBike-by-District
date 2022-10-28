@@ -7,6 +7,7 @@ Use the matplotlib.pyplot package to draw a visual line graph to show the total 
   
 Many basic concepts including the use of variables, List, Dictionary, and loop are used to complete this project. 
 
-# Updated
+# Updated - Taipei on Two Wheels
 Use python clean the json data and upload data from google.colab to Google drive. 
 Read the data from Google drive to create realtime dashboard using Tableau.
+Dashboard url: https://public.tableau.com/views/TaipeionTwoWheels-YouBike2_0RealtimeDashboard/TaipeionTwoWheels?:language=zh-TW&:display_count=n&:origin=viz_share_link
