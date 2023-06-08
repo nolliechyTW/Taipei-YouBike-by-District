@@ -11,4 +11,5 @@ Many basic concepts including the use of variables, List, Dictionary, and loop a
 Use python clean the json data and upload data from google.colab to Google drive. 
 Read the data from Google drive to create realtime dashboard using Tableau.       
 
-Dashboard url: https://public.tableau.com/views/TaipeionTwoWheels-YouBike2_0RealtimeDashboard/TaipeionTwoWheels?:language=zh-TW&:display_count=n&:origin=viz_share_link
+Preview: <br>
+![Taipei on Two Wheels](https://github.com/nolliechyTW/Taipei-YouBike-by-District/assets/106467497/e0917a1e-ed50-4322-ade1-a4fe3cb4cc8f)
